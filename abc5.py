@@ -1,8 +1,8 @@
-# A program to find the smallest number from 5 numbers
-a=20;
-b=30;
-c=40;
-d=10;
+# A program to find the smallest number from 4 numbers
+a = 20;
+b = 30;
+c = 40;
+d = 10;
 
 if (a < b and a < c and a < d):
     print(a, "(a) is the smallest number");

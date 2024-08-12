@@ -26,6 +26,3 @@ chargesOnUnits = (firstFifty * 0.5) + (nextHundred * 0.75) + (restUnits * 1.2);
 billToPayAfterSurcharge = chargesOnUnits + chargesOnUnits * (0.2);
 
 print(billToPayAfterSurcharge, "is the bill for your calculated (", originalConsumedUnits, ") units");
-
-    
-    

@@ -1,6 +1,7 @@
-a=15;
-b=6;
-c=10;
+# A program to find the second largest number
+a = 15;
+b = 6;
+c = 10;
 
 if ((a > b and a < c) or (a < b and a > c)):
     print(a, "(a) is the second largest number");

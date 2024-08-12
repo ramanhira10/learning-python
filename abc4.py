@@ -1,3 +1,4 @@
+# A program to demonstrate the tax calculated on the salary
 salary = 9000;
 tax = 0;
 if (salary >= 12000):
