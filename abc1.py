@@ -1,6 +1,6 @@
-a=12;
-b=55;
-c=5;
+a = 12;
+b = 55;
+c = 5;
 
 if (a > b and a > c):
     print("a is greater than b and c");
