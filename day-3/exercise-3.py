@@ -1,0 +1,11 @@
+array = [16, 5, 33, 12, 56, 2];
+print (array[-1]);
+print(array[-3]);
+string=input("enter element");
+lst = string.split();
+print(lst);
+list = [];
+list.append(1);
+list.append(2);
+list.append(3);
+print(list);
